@@ -14,14 +14,33 @@
 
 html,
 body {
+    background-color: brown;
     margin: 0;
     padding: 0;
 }
 
-#hello {
-    color:green
+
+header {
+    background-color: green;
+    
 }
 
-.container {
-    background-color: aqua;
+h1{
+    text-align: center;
+}
+
+footer {
+    background-color: yellow;
+}
+p {
+    color: blue;
+    font-style: italic;
+}
+
+img {
+    border: 5px solid #555;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
